@@ -1,7 +1,7 @@
 ## Hello World! I'm Paul-Henry Kajfasz 👋
 
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; border: 1px solid #ddd; margin: 15px 0;">
-  <p>Currently building <strong><a href="unlink.xyz">Unlink</a></strong> — Making public blockchains confidential & compliant for money moving companies.</p>
+  <p>Currently building <strong><a href="https://unlink.xyz">Unlink</a></strong> — Making public blockchains confidential & compliant for money moving companies.</p>
 </div>
 <br>
 
